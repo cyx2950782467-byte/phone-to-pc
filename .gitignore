@@ -14,3 +14,5 @@ vo/
 *.mp4
 *.png
 !assets/*.png
+resp.json
+ls.json

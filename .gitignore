@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+.venv/
+node_modules/
+frames/
+frames2/
+frames3/
+anim/
+anim2/
+anim3/
+term/
+end4/
+vo/
+*.mp4
+*.png
+!assets/*.png
